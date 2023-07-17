@@ -1,0 +1,45 @@
+﻿  pch.cpp
+  About.cpp
+  Account.cpp
+  Admin_Screen.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(308,21): warning C4101: 'e': unreferenced local variable
+  End.cpp
+  End2.cpp
+  Form1.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(308,21): warning C4101: 'e': unreferenced local variable
+  Gratitude.cpp
+  Level_1_Cars.cpp
+  Level_1_Meals.cpp
+  Level_1_Princesses.cpp
+  Level_2_Cars.cpp
+  Level_2_Meals.cpp
+  Level_2_Princesses.cpp
+  Level_3_Cars.cpp
+  Level_3_Meals.cpp
+  Level_3_Princesses.cpp
+  Level_4_Cars.cpp
+  Level_4_Meals.cpp
+  Generating Code...
+  Compiling...
+  Level_4_Princesses.cpp
+  Level_5_Cars.cpp
+  Level_5_Meals.cpp
+  Level_5_Princesses.cpp
+  Login.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(308,21): warning C4101: 'e': unreferenced local variable
+  Register.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(311,4): error C2065: 'StartGame_Screen': undeclared identifier
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(311,22): error C2065: 'strt': undeclared identifier
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(311,35): error C2061: syntax error: identifier 'StartGame_Screen'
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(312,4): error C2065: 'strt': undeclared identifier
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(317,2): error C2065: 'Register': undeclared identifier
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(317,12): error C2065: 'reg': undeclared identifier
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(317,24): error C2061: syntax error: identifier 'Register'
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(318,2): error C2065: 'reg': undeclared identifier
+  Review.cpp
+  Generating Code...

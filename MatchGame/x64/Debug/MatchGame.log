@@ -1,0 +1,20 @@
+﻿  Admin_Screen.cpp
+  BD_Users_Info.cpp
+  CppCLR_WinFormsProject.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\End.h(419,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Review.h(210,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(309,21): warning C4101: 'e': unreferenced local variable
+  Form1.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\End.h(419,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Review.h(210,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(309,21): warning C4101: 'e': unreferenced local variable
+  Login.cpp
+E:\выч практика лето 2023\MatchGame\MatchGame\End.h(419,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Review.h(210,20): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Register.h(320,21): warning C4101: 'e': unreferenced local variable
+E:\выч практика лето 2023\MatchGame\MatchGame\Login.h(309,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MatchGame.vcxproj -> E:\выч практика лето 2023\MatchGame\x64\Debug\MatchGame.exe

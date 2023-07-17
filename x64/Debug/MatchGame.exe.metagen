@@ -1,0 +1,168 @@
+  MatchGame.About.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Account.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Admin_Screen.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.BD_Users_Info.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.End.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.End2.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Form1.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Gratitude.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_1_Cars.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_1_Meals.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_1_Princesses.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_2_Cars.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_2_Meals.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_2_Princesses.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_3_Cars.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_3_Meals.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_3_Princesses.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_4_Cars.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_4_Meals.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_4_Princesses.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_5_Cars.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_5_Meals.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Level_5_Princesses.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Login.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Rating.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Register.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.Review.resources - Embedded, ContainedInManifestFile, 
+  MatchGame.StartGame_Screen.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly MatchGame, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class MatchGame.About: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Account: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label label9 : Public
+    System.Windows.Forms.Label label8 : Public
+    System.Windows.Forms.Label label7 : Public
+    System.Windows.Forms.Label label6 : Public
+    System.Windows.Forms.Label label10 : Public
+    System.Windows.Forms.Label label12 : Public
+Class MatchGame.BD_Users_Info: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Admin_Screen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 id : Public
+    System.String login : Public
+    System.String email : Public
+    System.String role : Public
+    Int32 numBonuses : Public
+    Int32 numLevels : Public
+    System.String password : Public
+    System.String review : Public
+    Int32 place : Public
+Class MatchGame.Rating: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.End: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+    System.Windows.Forms.Label label6 : Public
+    System.Windows.Forms.Label label7 : Public
+    System.Windows.Forms.Label label9 : Public
+    System.Windows.Forms.Label label8 : Public
+    System.Windows.Forms.Label label10 : Public
+  Methods:
+    Encrypt(String): PrivateScope, Public, HideBySig
+Class MatchGame.End2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label label6 : Public
+Class MatchGame.Level_1_Princesses: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_2_Princesses: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_3_Princesses: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_4_Princesses: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_5_Princesses: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_1_Cars: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_2_Cars: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_3_Cars: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_4_Cars: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_5_Cars: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_1_Meals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_2_Meals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_3_Meals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_4_Meals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Level_5_Meals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Gratitude: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MatchGame.Review: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+Class MatchGame.StartGame_Screen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+Class MatchGame.Register: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+Class MatchGame.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+Class MatchGame.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
